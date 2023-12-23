@@ -54,8 +54,11 @@ list_of_nums = eval(input())
 selection_sort(list_of_nums)
 print(list_of_nums)
 ```
-## Output:
-![image](https://github.com/syedfayaz3105/Sorting-Algorithm/assets/147144126/455b0d14-75e5-450f-ad92-fd2aa2b85056)
-![image](https://github.com/syedfayaz3105/Sorting-Algorithm/assets/147144126/cb949da5-90c9-480a-8b10-0b0d227ed2ad)
+## output
+## selection sort
+![image](https://github.com/syedfayaz3105/Sorting-Algorithm/assets/147144126/58b64fea-cc0e-4064-9da3-a6010d76d71a)
+## insertion sort
+![image](https://github.com/syedfayaz3105/Sorting-Algorithm/assets/147144126/702fca7c-0cbc-4528-a079-7588b3547b74)
+
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
