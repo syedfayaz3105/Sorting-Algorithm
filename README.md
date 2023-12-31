@@ -54,6 +54,7 @@ list_of_nums = eval(input())
 selection_sort(list_of_nums)
 print(list_of_nums)
 ```
+
 ## output
 ## selection sort
 ![image](https://github.com/syedfayaz3105/Sorting-Algorithm/assets/147144126/58b64fea-cc0e-4064-9da3-a6010d76d71a)
